@@ -1,0 +1,27 @@
+{
+  "name": "yup-full-validation",
+  "version": "0.1.0",
+  "description": "A helper function to quickly validate an entire object using yup schemas",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monsterbilligt/yup-full-validation.git"
+  },
+  "keywords": [
+    "yup",
+    "validation",
+    "object"
+  ],
+  "author": "Gustav Burchardt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Monsterbilligt/yup-full-validation/issues"
+  },
+  "homepage": "https://github.com/Monsterbilligt/yup-full-validation#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
