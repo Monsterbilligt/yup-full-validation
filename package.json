@@ -22,6 +22,13 @@
   },
   "homepage": "https://github.com/Monsterbilligt/yup-full-validation#readme",
   "devDependencies": {
-    "mocha": "^6.2.0"
+    "mocha": "^6.2.0",
+    "yup": "^0.27.0"
+  },
+  "peerDependencies": {
+    "yup": "0.x"
+  },
+  "dependencies": {
+    "deep-tinker": "github:Monsterbilligt/deep-tinker#master"
   }
 }
