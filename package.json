@@ -1,6 +1,6 @@
 {
   "name": "yup-full-validation",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A helper function to quickly validate an entire object using yup schemas",
   "main": "lib/index.js",
   "scripts": {
