@@ -29,3 +29,6 @@ validate(schema, form)
 const result = validateSync(schema, form)
 
 ```
+
+
+[<img src="https://i1.wp.com/www.diogonunes.com/blog/wp-content/uploads/2016/07/browserstack-logo.png?resize=768%2C253&ssl=1" width="200" height="auto">](https://www.browserstack.com/)
