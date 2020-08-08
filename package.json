@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/Monsterbilligt/yup-full-validation#readme",
   "devDependencies": {
-    "mocha": "^6.2.0",
-    "yup": "^0.27.0"
+    "mocha": "^8.1.1",
+    "yup": "^0.29.3"
   },
   "peerDependencies": {
     "yup": "0.x"
