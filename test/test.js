@@ -2,7 +2,7 @@
 
 const yup = require('yup')
 const assert = require('assert')
-const deep = require('deep-tinker')
+const deep = require('@monsterbilligt/deep-tinker')
 const { validate, validateSync } = require('..')
 
 const schema = yup.object().shape({

@@ -1,5 +1,5 @@
 {
-  "name": "yup-full-validation",
+  "name": "@monsterbilligt/yup-full-validation",
   "version": "0.1.4",
   "description": "A helper function to quickly validate an entire object using yup schemas",
   "main": "lib/index.js",
@@ -29,6 +29,6 @@
     "yup": "0.x"
   },
   "dependencies": {
-    "deep-tinker": "github:Monsterbilligt/deep-tinker#master"
+    "@monsterbilligt/deep-tinker": "^0.2.3"
   }
 }
