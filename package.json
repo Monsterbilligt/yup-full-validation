@@ -29,6 +29,6 @@
     "yup": "0.x"
   },
   "dependencies": {
-    "@monsterbilligt/deep-tinker": "^0.2.3"
+    "@monsterbilligt/deep-tinker": "0.2.7"
   }
 }
